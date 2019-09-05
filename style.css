@@ -835,5 +835,5 @@ img::-moz-selection {
 }
 
 body {
-    webkit-tap-highlight-color: #1ee2e7;
+    -webkit-tap-highlight-color: #1ee2e7;
 }
