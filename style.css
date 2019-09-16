@@ -266,7 +266,7 @@ header {
     background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;
-    background-size: fill;
+    background-size: cover;
     -o-background-size: cover;
 }
 
@@ -368,7 +368,7 @@ section h3.section-subheading {
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
-    opacity: 1;
+    opacity: .5;
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
@@ -778,6 +778,7 @@ ul.social-buttons li a:active {
 }
 
 .portfolio-modal .modal-content img {
+    object-fit: contain;
     margin-bottom: 30px;
 }
 
