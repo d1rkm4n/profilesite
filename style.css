@@ -1,7 +1,7 @@
 /*!
  * Start Bootstrap - Agency Bootstrap Theme (https://startbootstrap.com)
  * Code licensed under the Apache License v2.0.
- * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0
  */
 
 body {
@@ -368,7 +368,7 @@ section h3.section-subheading {
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
-    opacity: 1;
+    opacity: .5;
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
@@ -630,7 +630,7 @@ section h3.section-subheading {
 
 section#contact {
     background-color: #222;
-    background-image: url(images/LandScapeBG1.jpg);
+    background-image: url(images/contactbg.jpg);
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -778,6 +778,7 @@ ul.social-buttons li a:active {
 }
 
 .portfolio-modal .modal-content img {
+    object-fit: contain;
     margin-bottom: 30px;
 }
 
