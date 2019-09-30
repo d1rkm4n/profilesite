@@ -27,7 +27,7 @@
 				<Visible>1</Visible>
 			</Layer>
 			<Shapes>
-				<Shape ID="1" UniqueID="{FE34829A-D2A7-47B1-A648-FD5FAF9DCBBA}" Name="External Data" NameU="External Data" Master="2">
+				<Shape ID="1" UniqueID="{3044F742-C944-4EA9-B75A-361F8940C335}" Name="External Data" NameU="External Data" Master="2">
 					<Text>Meditech
 (Hospital EMR)</Text>
 					<XForm>
@@ -66,7 +66,7 @@
 						<Label>Status</Label>
 					</Prop>
 				</Shape>
-				<Shape ID="4" UniqueID="{3E15157C-405C-4A19-B03F-31FBF28948B3}" Name="Process" NameU="Process" Master="5">
+				<Shape ID="4" UniqueID="{89EA6EF3-8430-49B6-AEF7-4879BDE729A0}" Name="Process" NameU="Process" Master="5">
 					<Text>AthenaNet
 (Ambulatory EMR)</Text>
 					<XForm>
@@ -105,7 +105,7 @@
 						<Label>Status</Label>
 					</Prop>
 				</Shape>
-				<Shape ID="5" UniqueID="{CC731900-70E3-48F1-B931-99752D5931B2}" Name="Dynamic connector.5" NameU="Dynamic connector.5" Master="6">
+				<Shape ID="5" UniqueID="{22707D8C-A161-413E-8539-4E3FA44A9164}" Name="Dynamic connector.5" NameU="Dynamic connector.5" Master="6">
 					<Text>ADT, ORU,
 Image link</Text>
 					<XForm>
@@ -116,7 +116,7 @@ Image link</Text>
 						<LayerMember>1</LayerMember>
 					</LayerMem>
 				</Shape>
-				<Shape ID="6" UniqueID="{60ACE833-642F-4A5A-8195-A40FE8D51594}" Name="Subprocess" NameU="Subprocess" Master="8">
+				<Shape ID="6" UniqueID="{022DDA37-9D1E-494D-A0D9-1AA592BC3B8B}" Name="Subprocess" NameU="Subprocess" Master="8">
 					<Text>PowerScribe
 (Dictation application for Radiology)</Text>
 					<XForm>
@@ -155,7 +155,7 @@ Image link</Text>
 						<Label>Status</Label>
 					</Prop>
 				</Shape>
-				<Shape ID="7" UniqueID="{61E412E3-7543-48E0-8626-6C5275727C70}" Name="Dynamic connector.7" NameU="Dynamic connector.7" Master="6">
+				<Shape ID="7" UniqueID="{93A2EA88-B128-4F14-AFD5-DA3B5E02544B}" Name="Dynamic connector.7" NameU="Dynamic connector.7" Master="6">
 					<Text>Image link to
 embedded ORM</Text>
 					<XForm>
@@ -166,7 +166,7 @@ embedded ORM</Text>
 						<LayerMember>1</LayerMember>
 					</LayerMem>
 				</Shape>
-				<Shape ID="8" UniqueID="{4B33E494-1A0A-4496-B6B5-3D0A6D98695E}" Name="Subprocess.8" NameU="Subprocess.8" Master="8">
+				<Shape ID="8" UniqueID="{A096D015-CF61-472D-A670-23018EE9C77A}" Name="Subprocess.8" NameU="Subprocess.8" Master="8">
 					<Text>PACS 
 Imaging System</Text>
 					<XForm>
@@ -205,7 +205,7 @@ Imaging System</Text>
 						<Label>Status</Label>
 					</Prop>
 				</Shape>
-				<Shape ID="2" UniqueID="{3CB68ACC-F48D-4B99-8D7C-D7FFDBD7CFE8}" Name="Dynamic connector.2" NameU="Dynamic connector.2" Master="6">
+				<Shape ID="2" UniqueID="{7BF19A72-0477-43EF-A5CD-CC1BF83B969B}" Name="Dynamic connector.2" NameU="Dynamic connector.2" Master="6">
 					<Text>ORU</Text>
 					<XForm>
 						<PinX Unit="IN_F">5.437500000000000</PinX>
@@ -215,7 +215,7 @@ Imaging System</Text>
 						<LayerMember>1</LayerMember>
 					</LayerMem>
 				</Shape>
-				<Shape ID="3" UniqueID="{EEE3E591-EE88-4952-95E2-C4B5FA87F857}" Name="Dynamic connector.3" NameU="Dynamic connector.3" Master="6">
+				<Shape ID="3" UniqueID="{F95E2C95-5955-47D0-82BB-DEB1CDCD5E1B}" Name="Dynamic connector.3" NameU="Dynamic connector.3" Master="6">
 					<Text>ADT, ORM, ORU</Text>
 					<XForm>
 						<PinX Unit="IN_F">3.809279714730486</PinX>
@@ -225,7 +225,7 @@ Imaging System</Text>
 						<LayerMember>1</LayerMember>
 					</LayerMem>
 				</Shape>
-				<Shape ID="9" UniqueID="{4B8F967A-1108-4956-B54B-AC0EAFE09A62}" Name="Dynamic connector.9" NameU="Dynamic connector.9" Master="6">
+				<Shape ID="9" UniqueID="{5F1B1932-525B-47CF-91E4-737A62620523}" Name="Dynamic connector.9" NameU="Dynamic connector.9" Master="6">
 					<Text>ORM, ADT</Text>
 					<XForm>
 						<PinX Unit="IN_F">6.187500000000000</PinX>
@@ -235,7 +235,7 @@ Imaging System</Text>
 						<LayerMember>1</LayerMember>
 					</LayerMem>
 				</Shape>
-				<Shape ID="11" UniqueID="{621723FD-71A4-45AD-800A-F5EDEC461B40}" Name="Comm-link 2" NameU="Comm-link 2" Master="9">
+				<Shape ID="11" UniqueID="{AD0BF7CA-A602-4DB5-B384-C2AA5916C8E4}" Name="Comm-link 2" NameU="Comm-link 2" Master="9">
 					<Text>API Call</Text>
 					<XForm>
 						<PinX Unit="IN_F">3.527343750000000</PinX>
@@ -245,7 +245,7 @@ Imaging System</Text>
 						<LayerMember>1</LayerMember>
 					</LayerMem>
 				</Shape>
-				<Shape ID="10" UniqueID="{2CF4F9BC-87C8-423F-AE51-9B8272962FB7}" Name="Subprocess.10" NameU="Subprocess.10" Master="8">
+				<Shape ID="10" UniqueID="{777BB7AF-7C21-462E-930D-897409B5D600}" Name="Subprocess.10" NameU="Subprocess.10" Master="8">
 					<Text>Penrad
 (Dictation
 Application for Oncology)</Text>
@@ -285,7 +285,7 @@ Application for Oncology)</Text>
 						<Label>Status</Label>
 					</Prop>
 				</Shape>
-				<Shape ID="12" UniqueID="{3671EDE6-312D-4C43-89B2-A441DA03E5A2}" Name="Dynamic connector.12" NameU="Dynamic connector.12" Master="6">
+				<Shape ID="12" UniqueID="{6CA04F66-1361-410C-B8EF-04FA5EAAA88C}" Name="Dynamic connector.12" NameU="Dynamic connector.12" Master="6">
 					<Text>ORM</Text>
 					<XForm>
 						<PinX Unit="IN_F">5.437500000000000</PinX>
@@ -295,7 +295,7 @@ Application for Oncology)</Text>
 						<LayerMember>1</LayerMember>
 					</LayerMem>
 				</Shape>
-				<Shape ID="13" UniqueID="{847C1E69-B579-4E43-9E58-C60A4923D30C}" Name="Dynamic connector.13" NameU="Dynamic connector.13" Master="6">
+				<Shape ID="13" UniqueID="{DDBF4EC4-523A-4F20-AF43-3BCBCB974467}" Name="Dynamic connector.13" NameU="Dynamic connector.13" Master="6">
 					<Text>ORU</Text>
 					<XForm>
 						<PinX Unit="IN_F">6.187500000000000</PinX>
@@ -305,7 +305,7 @@ Application for Oncology)</Text>
 						<LayerMember>1</LayerMember>
 					</LayerMem>
 				</Shape>
-				<Shape ID="16" UniqueID="{1852C1AE-21BC-486B-958B-9452B264BDC5}" Name="Database" NameU="Database" Master="10">
+				<Shape ID="16" UniqueID="{5D35D89F-5AA9-4AFC-B905-1E130CE53B94}" Name="Database" NameU="Database" Master="10">
 					<Text>Meditech
 Data Repository</Text>
 					<XForm>
@@ -344,7 +344,7 @@ Data Repository</Text>
 						<Label>Status</Label>
 					</Prop>
 				</Shape>
-				<Shape ID="17" UniqueID="{A671945A-7A3B-4AA7-96DF-8BB54237FCB7}" Name="Dynamic connector.17" NameU="Dynamic connector.17" Master="6">
+				<Shape ID="17" UniqueID="{108833D9-711C-4A52-87EF-7E564B82F738}" Name="Dynamic connector.17" NameU="Dynamic connector.17" Master="6">
 					<XForm>
 						<PinX Unit="IN">7.165000000000000</PinX>
 						<PinY Unit="IN_F">4.967447916666663</PinY>
@@ -353,7 +353,7 @@ Data Repository</Text>
 						<LayerMember>1</LayerMember>
 					</LayerMem>
 				</Shape>
-				<Shape ID="14" UniqueID="{3DE384DE-5A8F-4CB0-B327-5445D8C8641A}" Name="Dynamic connector.14" NameU="Dynamic connector.14" Master="6">
+				<Shape ID="14" UniqueID="{8F02E9F4-1A66-4465-883A-6E1FE92CEB1E}" Name="Dynamic connector.14" NameU="Dynamic connector.14" Master="6">
 					<Text>DFT</Text>
 					<XForm>
 						<PinX Unit="IN_F">8.796875000000000</PinX>
@@ -363,7 +363,7 @@ Data Repository</Text>
 						<LayerMember>1</LayerMember>
 					</LayerMem>
 				</Shape>
-				<Shape ID="15" UniqueID="{AC6F3954-72B6-4CBA-9F5B-C7CC510F3587}" Name="Custom 4" NameU="Custom 4" Master="11">
+				<Shape ID="15" UniqueID="{8DAB1168-A7B2-4F4B-ACA4-B57089BA9EEA}" Name="Custom 4" NameU="Custom 4" Master="11">
 					<Text>Xray
 Machine</Text>
 					<XForm>
@@ -402,7 +402,7 @@ Machine</Text>
 						<Label>Status</Label>
 					</Prop>
 				</Shape>
-				<Shape ID="18" UniqueID="{1DC69FCF-BE7A-4CCD-BC3C-5A6A3DF8447C}" Name="Custom 4.18" NameU="Custom 4.18" Master="11">
+				<Shape ID="18" UniqueID="{C67D1D9B-1B60-4A52-BD9C-4E74C447C9F3}" Name="Custom 4.18" NameU="Custom 4.18" Master="11">
 					<Text>DICOM
 Station</Text>
 					<XForm>
@@ -441,7 +441,7 @@ Station</Text>
 						<Label>Status</Label>
 					</Prop>
 				</Shape>
-				<Shape ID="19" UniqueID="{36399607-BF1B-47A7-871A-8735558DA622}" Name="Dynamic connector" NameU="Dynamic connector" Master="6">
+				<Shape ID="19" UniqueID="{20583B41-B6A9-49B9-960D-550D74321289}" Name="Dynamic connector" NameU="Dynamic connector" Master="6">
 					<XForm>
 						<PinX Unit="IN_F">2.309895833333334</PinX>
 						<PinY Unit="IN_F">2.767578124999997</PinY>
@@ -450,7 +450,7 @@ Station</Text>
 						<LayerMember>1</LayerMember>
 					</LayerMem>
 				</Shape>
-				<Shape ID="20" UniqueID="{738CA050-4BFE-40CA-81C2-2BCE54015C44}" Name="Dynamic connector.20" NameU="Dynamic connector.20" Master="6">
+				<Shape ID="20" UniqueID="{84C12C38-E0FC-4A10-9B82-4A759968581A}" Name="Dynamic connector.20" NameU="Dynamic connector.20" Master="6">
 					<Text>Procedure
 Images</Text>
 					<XForm>
@@ -461,7 +461,7 @@ Images</Text>
 						<LayerMember>1</LayerMember>
 					</LayerMem>
 				</Shape>
-				<Shape ID="23" UniqueID="{13D68168-9B59-4EC7-9474-103944EE7851}" Name="Sheet.23" NameU="Sheet.23">
+				<Shape ID="23" UniqueID="{A8C56ECD-D2DF-4CB7-B8D1-2E4AF02534AC}" Name="Sheet.23" NameU="Sheet.23">
 					<Text>HL7 Message Definition
 ADT – Admission, Discharge, Transfer
 DFT – Detailed Financial Transaction
@@ -473,7 +473,7 @@ SIU – Scheduling Information</Text>
 						<PinY Unit="IN_F">6.996323529411765</PinY>
 					</XForm>
 				</Shape>
-				<Shape ID="21" UniqueID="{40DC1FAF-FDCC-4D9D-BF2E-2BDFA2CC14FB}" Name="Bubble callout" NameU="Bubble callout" Master="12">
+				<Shape ID="21" UniqueID="{3FA0113C-39E5-4E3E-8577-776432C10123}" Name="Bubble callout" NameU="Bubble callout" Master="12">
 					<Text>Financial data sent when midnight process runs</Text>
 					<XForm>
 						<PinX Unit="IN_F">9.312500000000000</PinX>
@@ -487,13 +487,13 @@ SIU – Scheduling Information</Text>
 		</Page>
 		<Page ID="4" Name="VBackground-1" NameU="VBackground-1">
 			<Shapes>
-				<Shape ID="1" UniqueID="{E3FE3DA3-E727-4525-9276-7DE9D5C0EF9D}" Name="Currency" NameU="Currency" Master="14">
+				<Shape ID="1" UniqueID="{464FF6B6-BF86-4D57-8FD7-964A1FDF6402}" Name="Currency" NameU="Currency" Master="14">
 					<XForm>
 						<PinX Unit="IN">5.499999999999999</PinX>
 						<PinY Unit="IN">4.250000000000000</PinY>
 					</XForm>
 				</Shape>
-				<Shape ID="26" UniqueID="{21A049C9-699B-4213-AD84-F2B3E37B32C7}" Name="Tiles" NameU="Tiles" Master="15">
+				<Shape ID="26" UniqueID="{B81D17AE-2552-4F3E-BB47-A8A05142A7CB}" Name="Tiles" NameU="Tiles" Master="15">
 					<Text>Current State HL7 Data Flow</Text>
 					<XForm>
 						<PinX Unit="IN">5.499999999999999</PinX>

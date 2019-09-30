@@ -38,7 +38,7 @@ var slSupported = (MSIE && ver >= 5 && !isMac) || isFirefox;
 var isUpLevel = slSupported && slInstalled;
 var fShowWidgets = (MSIE && ver >= 5 && !isMac) || isFirefox;
 
-var xmlData = XMLData("Current State Data Flow_files/data.xml");
+var xmlData = XMLData("CStateHL7DFD_files/data.xml");
 
 var g_RowStyleList = new  Array(
  "propViewerEvenRow",
