@@ -335,7 +335,7 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        padding: 70px 0;
     }
 }
 
@@ -435,7 +435,7 @@ section h3.section-subheading {
     left: 40px;
     width: 2px;
     margin-left: -1.5px;
-    background-color: #f1f1f1;
+    background-color: #1ee2e7;
 }
 
 .timeline>li {
@@ -483,11 +483,15 @@ section h3.section-subheading {
     width: 80px;
     height: 80px;
     margin-left: 0;
-    border: 7px solid #f1f1f1;
+    border: 7px solid #1ee2e7;
     border-radius: 100%;
     text-align: center;
     color: #fff;
     background-color: #1ee2e7;
+    background-image: url('images/circutbg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
 .timeline>li .timeline-image h4 {
