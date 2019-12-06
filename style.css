@@ -261,9 +261,9 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('https://github.com/d1rkm4n/profilesite/blob/master/images/nbg1.jpg?raw=true');
+    background-image: url('images/nbg3.jpg');
     background-position: center center;
-    background-repeat: none;
+    background-repeat: no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -635,9 +635,13 @@ section h3.section-subheading {
 
 section#contact {
     background-color: #222;
-    background-image: url(images/contactbg.jpg);
-    background-position: center;
+    background-image: url(images/nbg3.jpg);
+    background-position: center center;
     background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
 }
 
 section#contact .section-heading {
